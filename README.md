@@ -1,27 +1,27 @@
 # Un1kMsg
 
-Un1kMsg是用于平替Server酱的一款产品，已经包含Server酱的基本功能。
+Un1kMsg is a product used to replace Server sauce, which already contains the basic functions of Server sauce.
 
-# 功能列表
+# Function list
 
-支持4通道配置
+Support 4-channel configuration
 
 ![image](https://user-images.githubusercontent.com/42985524/193771444-834b6559-ffd7-4a97-b422-65d48fabc923.png)
 
-支持在线发送与API
+Online sending and API support
 
 ![image](https://user-images.githubusercontent.com/42985524/193771621-47d2cf34-53f4-4e25-b833-376f154284f7.png)
 
-支持端对端加密（保证数据流转的安全性,只有自己知道消息内容）
+Support end-to-end encryption (ensure the security of data flow, and only you know the message content)
 
 ![image](https://user-images.githubusercontent.com/42985524/193771793-499c13db-1f82-4ae0-b2c7-7e1ff2724a8c.png)
 
-# 使用方法
+# Usage 
 
 https://mp.weixin.qq.com/s/dPhLszSMJ6WH9Ht25rmcUw
 
-文档地址: http://un1kmsg.happysec.cn/
+Doc: http://un1kmsg.happysec.cn/
 
-# 开源
+# Open Source
 
-入职新公司后,看公司是否需要开源服务端,不影响各位正常使用。
+After joining the new company, we will see whether the company needs open source server source code. The project address will not be closed and will not be charged, which will not affect your normal use.
