@@ -17,7 +17,7 @@ def send(SENDKEY,TITLE,CONTENT):
     res = requests.post(API,data = myobj,headers=headers).text
     print(res)
 
-SENDKEY = 'ZX0zaHCWMR0qhQvZerkwXPJ1aabuMkJh4TxGZnRzhKu03FBi'
+SENDKEY = ''
 TITLE = input("Set headers smaller than 32 bits:")
 CONTENT = input("Set your transfer content:")
 send(SENDKEY,TITLE,CONTENT)
