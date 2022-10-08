@@ -20,8 +20,12 @@ Support end-to-end encryption (ensure the security of data flow, and only you kn
 
 https://mp.weixin.qq.com/s/dPhLszSMJ6WH9Ht25rmcUw
 
+SDK:[SDK Directory](https://github.com/h4ckdepy/Un1kMsg/tree/main/sdk)
+
 Doc: http://un1kmsg.happysec.cn/
 
 # Open Source
 
-After joining the new company, we will see whether the company needs open source server source code. The project address will not be closed and will not be charged, which will not affect your normal use.
+After joining the new company, we will see whether the company needs open source server source code.
+
+The project address **will not be closed** and **will not be charged**, which will not affect your normal use.
