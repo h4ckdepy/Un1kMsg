@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class un1kmsg {
     public static void main(String[] args) {
-        String sendkey = "QQw5fbk5Fanbf9zpHnAGtM1VXw3NOtdUJcrUQDN62cBl2l6E";
+        String sendkey = "";
         String content = "测试javademo";
         String title = "测试javademo";
         Map<String, String> reqMap = new HashMap<>();
