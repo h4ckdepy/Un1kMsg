@@ -4,7 +4,7 @@ Un1kMsg is a product used to replace Server sauce, which already contains the ba
 
 # Function list
 
-Support 4-channel configuration
+Support Some channel configuration
 
 ![image](https://user-images.githubusercontent.com/42985524/193771444-834b6559-ffd7-4a97-b422-65d48fabc923.png)
 
