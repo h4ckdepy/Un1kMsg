@@ -4,7 +4,7 @@ Un1kMsg is a product used to replace Server sauce, which already contains the ba
 
 # Function list
 
-Support Some channel configuration
+Support Some channel configuration(More and More)
 
 ![image](https://user-images.githubusercontent.com/42985524/193771444-834b6559-ffd7-4a97-b422-65d48fabc923.png)
 
@@ -15,6 +15,11 @@ Online sending and API support
 Support end-to-end encryption (ensure the security of data flow, and only you know the message content)
 
 ![image](https://user-images.githubusercontent.com/42985524/193771793-499c13db-1f82-4ae0-b2c7-7e1ff2724a8c.png)
+
+Provide various subscription services, such as CVE warehouse monitoring, SRC vulnerability score changes, etc
+
+![image](https://user-images.githubusercontent.com/42985524/194763944-b53c34dc-a46c-4428-a71c-4a06ae0c3ef1.png)
+
 
 # Usage 
 
