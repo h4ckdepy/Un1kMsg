@@ -8,18 +8,14 @@ import java.util.Set;
 
 public class un1kmsg {
     public static void main(String[] args) {
-        String sendkey = "";
-        String content = "测试javademo";
-        String title = "测试javademo";
         Map<String, String> reqMap = new HashMap<>();
-        reqMap.put("sendkey", sendkey);
-        reqMap.put("content", content);
-        reqMap.put("title", title);
-        String api = "http://un1kmsg.happysec.cn/index/processmsg/";
-        System.out.println(sendPost(api,reqMap,3));
+        reqMap.put("sendkey", 'Your Send Key.');
+        reqMap.put("content", '测试javademo');
+        reqMap.put("title", '测试javademo');
+        System.out.println(send(reqMap,3));
     }
 
-    public static String sendPost(String url, Map<String, String> params, int timeOut){
+    public static String send(Map<String, String> params, int timeOut){
         String result = "";
         HttpURLConnection httpURLConnection = null;
         InputStream inputStream = null;
@@ -28,7 +24,7 @@ public class un1kmsg {
         StringBuffer buffer = new StringBuffer();
         try {
             System.setProperty("sun.net.http.allowRestrictedHeaders", "true");
-            URL u = new URL(url);
+            URL u = new URL('http://un1kmsg.happysec.cn/index/processmsg/');
             httpURLConnection = (HttpURLConnection) u.openConnection();
             httpURLConnection.setRequestMethod("POST");
             httpURLConnection.setConnectTimeout(5000);
