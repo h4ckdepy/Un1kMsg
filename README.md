@@ -1,4 +1,6 @@
-# Un1kMsg
+# Un1kMsg 
+
+[中文版](README-CN.md)
 
 Un1kMsg is a product used to replace Server sauce, which already contains the basic functions of Server sauce.
 
