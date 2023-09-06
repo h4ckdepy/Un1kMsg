@@ -1,4 +1,4 @@
-# Un1kMsg 
+# Un1kMsg (https://un1kmsg.rce.ink)
 
 
 Un1kMsg是一个用于替代Server酱的平台,内置了Server酱的核心功能,并添加了一键订阅等功能。
@@ -32,7 +32,7 @@ https://mp.weixin.qq.com/s/dPhLszSMJ6WH9Ht25rmcUw
 
 SDK:[SDK Directory](https://github.com/h4ckdepy/Un1kMsg/tree/main/sdk)
 
-文档: http://un1kmsg.happysec.cn/
+文档: http://un1kmsg.rce.ink
 
 用例：https://github.com/h4ckdepy/Un1kMsg/tree/main/demo
 
