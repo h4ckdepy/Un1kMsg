@@ -1,4 +1,4 @@
-# Un1kMsg 
+# Un1kMsg (https://un1kmsg.rce.ink)
 
 [中文版](README-CN.md)
 
@@ -33,7 +33,7 @@ https://mp.weixin.qq.com/s/dPhLszSMJ6WH9Ht25rmcUw
 
 SDK:[SDK Directory](https://github.com/h4ckdepy/Un1kMsg/tree/main/sdk)
 
-Doc: http://un1kmsg.happysec.cn/
+Doc: http://un1kmsg.rce.ink
 
 Examples：https://github.com/h4ckdepy/Un1kMsg/tree/main/demo
 
